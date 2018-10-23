@@ -1,0 +1,25 @@
+body{
+	background-image: url(file:///Users/treenah/Desktop/UCB_BOOTCAMP/trivia-game-4/trivia-game-4/assets/images/stranger-things-season-2.jpg);
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+}
+
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+
+.jumbotron {
+    opacity: 0.35;
+    margin:  95px;
+    padding: 45px;
+    font-family: Merriweather;
+    color: white;
+    background-color: rgb(83, 11, 11);
+}
